@@ -1,0 +1,9 @@
+.DS_Store
+build/
+Products/
+*.dmg
+xcuserdata/
+DerivedData/
+*.xcworkspace/xcuserdata/
+.DocumentRevisions-V100/
+.trae/
